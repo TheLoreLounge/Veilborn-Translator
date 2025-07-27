@@ -1,0 +1,2403 @@
+{
+  "about": {
+    "translation": {
+      "word": "avén"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "above": {
+    "translation": {
+      "word": "alúra"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "across": {
+    "translation": {
+      "word": "estara"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "after": {
+    "translation": {
+      "word": "solien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "against": {
+    "translation": {
+      "word": "valthén"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "along": {
+    "translation": {
+      "word": "alurien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "among": {
+    "translation": {
+      "word": "elméra"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "around": {
+    "translation": {
+      "word": "saranth"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "as": {
+    "translation": {
+      "word": "aisa"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "at": {
+    "translation": {
+      "word": "ynor"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "before": {
+    "translation": {
+      "word": "cara"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "behind": {
+    "translation": {
+      "word": "télar"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "below/beneath": {
+    "translation": {
+      "word": "inór"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "beside": {
+    "translation": {
+      "word": "lévien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "besides": {
+    "translation": {
+      "word": "serae"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "between": {
+    "translation": {
+      "word": "morien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "beyond": {
+    "translation": {
+      "word": "voren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "but": {
+    "translation": {
+      "word": "uren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "by": {
+    "translation": {
+      "word": "kara"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "despite": {
+    "translation": {
+      "word": "téra"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "down": {
+    "translation": {
+      "word": "wnte"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "during": {
+    "translation": {
+      "word": "sola"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "except": {
+    "translation": {
+      "word": "lári"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "following": {
+    "translation": {
+      "word": "naúr"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "for": {
+    "translation": {
+      "word": "vanys"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "from": {
+    "translation": {
+      "word": "tén"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "in": {
+    "translation": {
+      "word": "yn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "inside": {
+    "translation": {
+      "word": "toréa"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "into": {
+    "translation": {
+      "word": "fára"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "like": {
+    "translation": {
+      "word": "elvar"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "minus": {
+    "translation": {
+      "word": "melion"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "near": {
+    "translation": {
+      "word": "parnéa"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "of": {
+    "translation": {
+      "word": "entei"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "off": {
+    "translation": {
+      "word": "súrien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "on": {
+    "translation": {
+      "word": "surnae"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "onto": {
+    "translation": {
+      "word": "vallin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "opposite": {
+    "translation": {
+      "word": "versen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "outside": {
+    "translation": {
+      "word": "feleth"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "over": {
+    "translation": {
+      "word": "teuryn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "past": {
+    "translation": {
+      "word": "élmarin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "per": {
+    "translation": {
+      "word": "calentha"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "plus": {
+    "translation": {
+      "word": "tavellin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "since": {
+    "translation": {
+      "word": "isthera"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "than": {
+    "translation": {
+      "word": "velior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "through": {
+    "translation": {
+      "word": "mirayne"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "to": {
+    "translation": {
+      "word": "durelia"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "toward": {
+    "translation": {
+      "word": "thalien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "towards": {
+    "translation": {
+      "word": "mavoren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "under": {
+    "translation": {
+      "word": "luréan"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "underneath": {
+    "translation": {
+      "word": "yseren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "unlike": {
+    "translation": {
+      "word": "valtheren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "until": {
+    "translation": {
+      "word": "torin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "up": {
+    "translation": {
+      "word": "seranis"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "upon": {
+    "translation": {
+      "word": "ithwen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "versus": {
+    "translation": {
+      "word": "feurnae"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "via": {
+    "translation": {
+      "word": "calien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "with": {
+    "translation": {
+      "word": "parvaya"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "within": {
+    "translation": {
+      "word": "sorinth"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "without": {
+    "translation": {
+      "word": "eilien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "a/an": {
+    "translation": {
+      "word": "lyr"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "the": {
+    "translation": {
+      "word": "ahn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "this": {
+    "translation": {
+      "word": "seo"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "that": {
+    "translation": {
+      "word": "sera"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "these": {
+    "translation": {
+      "word": "seolin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "those": {
+    "translation": {
+      "word": "seralin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "my": {
+    "translation": {
+      "word": "íl"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "your": {
+    "translation": {
+      "word": "el"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "his": {
+    "translation": {
+      "word": "ul"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "her": {
+    "translation": {
+      "word": "heiné"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "its": {
+    "translation": {
+      "word": "ol"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "our": {
+    "translation": {
+      "word": "íel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "their": {
+    "translation": {
+      "word": "olior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "who": {
+    "translation": {
+      "word": "cuid"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "whose": {
+    "translation": {
+      "word": "cuidn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "what": {
+    "translation": {
+      "word": "cuith"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "when": {
+    "translation": {
+      "word": "kavin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "where": {
+    "translation": {
+      "word": "cuikin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "which": {
+    "translation": {
+      "word": "cuit"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "why (what for)": {
+    "translation": {
+      "word": "cuithya"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "how": {
+    "translation": {
+      "word": "cuinas"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "all": {
+    "translation": {
+      "word": "léir"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "each": {
+    "translation": {
+      "word": "léirean"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "every": {
+    "translation": {
+      "word": "léir"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "both": {
+    "translation": {
+      "word": "liraen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "most": {
+    "translation": {
+      "word": "selurían"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "many": {
+    "translation": {
+      "word": "muriel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "much": {
+    "translation": {
+      "word": "muirin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "some": {
+    "translation": {
+      "word": "eifin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "a few": {
+    "translation": {
+      "word": "eifinel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "fewer": {
+    "translation": {
+      "word": "tifiel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "fewest": {
+    "translation": {
+      "word": "tifariel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "a little": {
+    "translation": {
+      "word": "lilura"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "less": {
+    "translation": {
+      "word": "leurin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "least": {
+    "translation": {
+      "word": "leurean"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "any": {
+    "translation": {
+      "word": "aen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "no": {
+    "translation": {
+      "word": "teu"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "enough": {
+    "translation": {
+      "word": "saelith"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "several": {
+    "translation": {
+      "word": "sileran"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "either": {
+    "translation": {
+      "word": "arlaen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "neither": {
+    "translation": {
+      "word": "teularlaen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "yes": {
+    "translation": {
+      "word": "enya"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "goddess/mother tree": {
+    "translation": {
+      "word": "Avíeden"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "father sun": {
+    "translation": {
+      "word": "Evísol"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "high queen": {
+    "translation": {
+      "word": "aykin avílyn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "queen": {
+    "translation": {
+      "word": "Avílyn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "consort": {
+    "translation": {
+      "word": "Everun"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "female heir": {
+    "translation": {
+      "word": "ilyn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "male heir": {
+    "translation": {
+      "word": "erun"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "mistress/master": {
+    "translation": {
+      "word": "arun/erus"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "princess": {
+    "translation": {
+      "word": "aveain"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "prince": {
+    "translation": {
+      "word": "eveais"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "lady/lord": {
+    "translation": {
+      "word": "avun/evus"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "mother": {
+    "translation": {
+      "word": "aví"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "father": {
+    "translation": {
+      "word": "eví"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "killer king": {
+    "translation": {
+      "word": "Vaod Vherud"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "killer heir": {
+    "translation": {
+      "word": "Vaod"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "i/me/self": {
+    "translation": {
+      "word": "lí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "you": {
+    "translation": {
+      "word": "shel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "she/her": {
+    "translation": {
+      "word": "la"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "her/hers": {
+    "translation": {
+      "word": "al"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "he/him": {
+    "translation": {
+      "word": "lu"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "it": {
+    "translation": {
+      "word": "lo"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "it’s": {
+    "translation": {
+      "word": "ol"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "we/us": {
+    "translation": {
+      "word": "líe"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "ours": {
+    "translation": {
+      "word": "íel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "you (plural)": {
+    "translation": {
+      "word": "leior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "your (plural)": {
+    "translation": {
+      "word": "elior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "they/them (females)": {
+    "translation": {
+      "word": "laior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "their (females)": {
+    "translation": {
+      "word": "alior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "they/them (males)": {
+    "translation": {
+      "word": "luior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "their (males)": {
+    "translation": {
+      "word": "ulior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "they/them (unknown, unisex)": {
+    "translation": {
+      "word": "loior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "their (unknown, unisex)": {
+    "translation": {
+      "word": "olior"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "myself": {
+    "translation": {
+      "word": "illí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "yourself": {
+    "translation": {
+      "word": "ellí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "herself": {
+    "translation": {
+      "word": "allí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "himself": {
+    "translation": {
+      "word": "ullí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "itself": {
+    "translation": {
+      "word": "ollí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "ourselves": {
+    "translation": {
+      "word": "iellí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "yourselves": {
+    "translation": {
+      "word": "eliorlí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "themselves (females)": {
+    "translation": {
+      "word": "aliorlí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "themselves (males)": {
+    "translation": {
+      "word": "uliorlí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "themselves (unisex)": {
+    "translation": {
+      "word": "oliorlí"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "anybody/anyone": {
+    "translation": {
+      "word": "kalilyen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "anything": {
+    "translation": {
+      "word": "kalilyon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "nobody/no one": {
+    "translation": {
+      "word": "teulen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "nothing": {
+    "translation": {
+      "word": "teulon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "healer": {
+    "translation": {
+      "word": "fallaín"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "torturer": {
+    "translation": {
+      "word": "falmacitel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "speaker": {
+    "translation": {
+      "word": "faleiria"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "never": {
+    "translation": {
+      "word": "teuriah"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "too/also/as well/likewise": {
+    "translation": {
+      "word": "etiam"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "here": {
+    "translation": {
+      "word": "kui"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "only": {
+    "translation": {
+      "word": "solum"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "have no meaning on their own, give the main verb more meaning.": {
+    "translation": {
+      "word": "vanys"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "be": {
+    "translation": {
+      "word": "font"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "have": {
+    "translation": {
+      "word": "vec"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "may/might": {
+    "translation": {
+      "word": "se"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "and": {
+    "translation": {
+      "word": "elai"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "nor": {
+    "translation": {
+      "word": "vec"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "or": {
+    "translation": {
+      "word": "fira"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "if": {
+    "translation": {
+      "word": "lesa"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "one/once": {
+    "translation": {
+      "word": "apa"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "two/twice": {
+    "translation": {
+      "word": "lira"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "first": {
+    "translation": {
+      "word": "apai"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "second": {
+    "translation": {
+      "word": "lirai"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "lyen": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "sera": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "vara": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "thalen": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "miren": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "ren": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "halen": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "tiren": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "i": {
+    "translation": {
+      "word": "sha"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "he": {
+    "translation": {
+      "word": "hain"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "she": {
+    "translation": {
+      "word": "hein"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "they": {
+    "translation": {
+      "word": "hen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "we": {
+    "translation": {
+      "word": "shan"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "me": {
+    "translation": {
+      "word": "shané"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "him": {
+    "translation": {
+      "word": "hainé"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "us": {
+    "translation": {
+      "word": "shané"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "them": {
+    "translation": {
+      "word": "hené"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "love": {
+    "translation": {
+      "word": "serin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "see": {
+    "translation": {
+      "word": "valen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "speak": {
+    "translation": {
+      "word": "liren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "see (present)": {
+    "translation": {
+      "word": "varei"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "see (past)": {
+    "translation": {
+      "word": "varea"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "see (future)": {
+    "translation": {
+      "word": "vareon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "hear (present)": {
+    "translation": {
+      "word": "laen"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "hear (past)": {
+    "translation": {
+      "word": "laena"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "hear (future)": {
+    "translation": {
+      "word": "laenon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "speak (present)": {
+    "translation": {
+      "word": "seira"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "speak (past)": {
+    "translation": {
+      "word": "seiran"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "speak (future)": {
+    "translation": {
+      "word": "seiron"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "walk (present)": {
+    "translation": {
+      "word": "tair"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "walk (past)": {
+    "translation": {
+      "word": "taira"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "walk (future)": {
+    "translation": {
+      "word": "tairon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "run (present)": {
+    "translation": {
+      "word": "serin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "run (past)": {
+    "translation": {
+      "word": "serina"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "run (future)": {
+    "translation": {
+      "word": "serinon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "fly (present)": {
+    "translation": {
+      "word": "fea"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "fly (past)": {
+    "translation": {
+      "word": "fean"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "fly (future)": {
+    "translation": {
+      "word": "feanon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "burn (present)": {
+    "translation": {
+      "word": "solae"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "burn (past)": {
+    "translation": {
+      "word": "solana"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "burn (future)": {
+    "translation": {
+      "word": "solaenon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "breathe (present)": {
+    "translation": {
+      "word": "helai"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "breathe (past)": {
+    "translation": {
+      "word": "helana"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "breathe (future)": {
+    "translation": {
+      "word": "helanon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "remember (present)": {
+    "translation": {
+      "word": "melan"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "remember (past)": {
+    "translation": {
+      "word": "melana"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "remember (future)": {
+    "translation": {
+      "word": "melanon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "forget (present)": {
+    "translation": {
+      "word": "firan"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "forget (past)": {
+    "translation": {
+      "word": "firana"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "forget (future)": {
+    "translation": {
+      "word": "firanon"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "sun": {
+    "translation": {
+      "word": "evísol"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "moon": {
+    "translation": {
+      "word": "lynára"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "stars": {
+    "translation": {
+      "word": "eilura"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "tree": {
+    "translation": {
+      "word": "vélin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "forest": {
+    "translation": {
+      "word": "tyraelin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "flower": {
+    "translation": {
+      "word": "solin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "river": {
+    "translation": {
+      "word": "shira"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "wind": {
+    "translation": {
+      "word": "cael"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "fire": {
+    "translation": {
+      "word": "sola"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "light": {
+    "translation": {
+      "word": "soril"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "darkness": {
+    "translation": {
+      "word": "noirin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "dream": {
+    "translation": {
+      "word": "saven"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "night": {
+    "translation": {
+      "word": "naelin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "day": {
+    "translation": {
+      "word": "lirein"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "veil": {
+    "translation": {
+      "word": "sairin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "faerie": {
+    "translation": {
+      "word": "Féarya"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "heir": {
+    "translation": {
+      "word": "ilyn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "oath": {
+    "translation": {
+      "word": "saelir"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "court": {
+    "translation": {
+      "word": "iléna"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "home": {
+    "translation": {
+      "word": "selien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "run": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "hide": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "protect": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "bind": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "call": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "give": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "take": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "wait": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "bring": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "glow": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "crown": {
+    "translation": {
+      "word": "auréth"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "branch": {
+    "translation": {
+      "word": "thenil"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "leaf": {
+    "translation": {
+      "word": "aniel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "root": {
+    "translation": {
+      "word": "voren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "lake": {
+    "translation": {
+      "word": "melin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "mountain": {
+    "translation": {
+      "word": "thalor"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "storm": {
+    "translation": {
+      "word": "karion"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "twilight": {
+    "translation": {
+      "word": "duren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "guardian": {
+    "translation": {
+      "word": "valith"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "curse": {
+    "translation": {
+      "word": "draven"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "path": {
+    "translation": {
+      "word": "lenir"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "faerie ring": {
+    "translation": {
+      "word": "liralyn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "song": {
+    "translation": {
+      "word": "naven"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "whisper": {
+    "translation": {
+      "word": "cerel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "promise": {
+    "translation": {
+      "word": "yelian"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "truth": {
+    "translation": {
+      "word": "venar"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "lie": {
+    "translation": {
+      "word": "drasul"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "veilborn": {
+    "translation": {
+      "word": "avinel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "shimmering": {
+    "translation": {
+      "word": "evára"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "ancient": {
+    "translation": {
+      "word": "toren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "sacred": {
+    "translation": {
+      "word": "valúr"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "hidden": {
+    "translation": {
+      "word": "sharel"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "wild": {
+    "translation": {
+      "word": "feren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "burning": {
+    "translation": {
+      "word": "kael"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "gentle": {
+    "translation": {
+      "word": "lirien"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "silent": {
+    "translation": {
+      "word": "muren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "eternal": {
+    "translation": {
+      "word": "avínar"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "forgotten": {
+    "translation": {
+      "word": "loren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "through the veil": {
+    "translation": {
+      "word": "thén avír"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "blessed be the roots": {
+    "translation": {
+      "word": "lína voren avin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "by oath and fire": {
+    "translation": {
+      "word": "via yelian ar kael"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "from dream to dusk": {
+    "translation": {
+      "word": "saven tha duren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "bound in truth": {
+    "translation": {
+      "word": "tyel venar"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "speak no lie": {
+    "translation": {
+      "word": "veras teu drasul"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "heart of the forest": {
+    "translation": {
+      "word": "avén tha thenil"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "rise with the dawn": {
+    "translation": {
+      "word": "sorei via lyren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "walk in twilight": {
+    "translation": {
+      "word": "miren tha duren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "under sun and moon": {
+    "translation": {
+      "word": "len evísol ar lynára"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "because": {
+    "translation": {
+      "word": "valai"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "so": {
+    "translation": {
+      "word": "dima"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "although": {
+    "translation": {
+      "word": "yael"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "while": {
+    "translation": {
+      "word": "nëren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "as soon as": {
+    "translation": {
+      "word": "valuren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "even though": {
+    "translation": {
+      "word": "séralin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "in case": {
+    "translation": {
+      "word": "delyn"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "unless": {
+    "translation": {
+      "word": "morael"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "whereas": {
+    "translation": {
+      "word": "falan"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "whether": {
+    "translation": {
+      "word": "eloren"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "By the roots!": {
+    "translation": {
+      "word": "Virel'avi!"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "As the wind wills": {
+    "translation": {
+      "word": "Caelen fira"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Light guide you": {
+    "translation": {
+      "word": "Solélin nai"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Darkness take you": {
+    "translation": {
+      "word": "Tenebra léva"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Until we meet again": {
+    "translation": {
+      "word": "Torin kelira"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "May the veil protect you": {
+    "translation": {
+      "word": "Veilin selar nai"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "I swear upon the Veil": {
+    "translation": {
+      "word": "Velin seran"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "It is written in bark": {
+    "translation": {
+      "word": "Caryn en tulan"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Let it be done": {
+    "translation": {
+      "word": "Lethara nai"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "With all my heart": {
+    "translation": {
+      "word": "Saelin naelya"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Do not speak of it": {
+    "translation": {
+      "word": "Nael veralin"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Only the stars know": {
+    "translation": {
+      "word": "Selan navëla"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Leave no trace": {
+    "translation": {
+      "word": "Thera len'val"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Follow the quiet path": {
+    "translation": {
+      "word": "Nelin varae"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Walk in shadowlight": {
+    "translation": {
+      "word": "Daran in silmar"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "May your roots grow deep": {
+    "translation": {
+      "word": "Aven liré nai"
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "idioms": {
+    "translation": {
+      "word": ""
+    },
+    "partOfSpeech": "",
+    "notes": ""
+  },
+  "Mother Tree": {
+    "translation": {
+      "word": "Avíeden"
+    },
+    "partOfSpeech": "noun",
+    "notes": "The divine world tree; considered a goddess."
+  },
+  "Father Sun": {
+    "translation": {
+      "word": "Evísol"
+    },
+    "partOfSpeech": "noun",
+    "notes": "The solar deity and consort of Avíeden."
+  },
+  "Veil": {
+    "translation": {
+      "word": "Aiveil"
+    },
+    "partOfSpeech": "noun",
+    "notes": "The barrier between worlds."
+  },
+  "High Queen": {
+    "translation": {
+      "word": "aykin avílyn"
+    },
+    "partOfSpeech": "title",
+    "notes": "Ruler of the High Court of Faerie."
+  },
+  "Queen": {
+    "translation": {
+      "word": "Avílyn"
+    },
+    "partOfSpeech": "title",
+    "notes": "Female ruler of a fae court."
+  },
+  "Consort": {
+    "translation": {
+      "word": "Everun"
+    },
+    "partOfSpeech": "title",
+    "notes": "Mate or consort of a queen."
+  },
+  "Female Heir": {
+    "translation": {
+      "word": "ilyn"
+    },
+    "partOfSpeech": "title",
+    "notes": "Daughter or chosen female heir."
+  },
+  "Male Heir": {
+    "translation": {
+      "word": "erun"
+    },
+    "partOfSpeech": "title",
+    "notes": "Son or chosen male heir."
+  },
+  "Mistress": {
+    "translation": {
+      "word": "arun"
+    },
+    "partOfSpeech": "title",
+    "notes": "Highborn woman or master of a domain."
+  },
+  "Master": {
+    "translation": {
+      "word": "erus"
+    },
+    "partOfSpeech": "title",
+    "notes": "Highborn man or master of a domain."
+  },
+  "Princess": {
+    "translation": {
+      "word": "aveain"
+    },
+    "partOfSpeech": "title",
+    "notes": "Royal daughter."
+  },
+  "Prince": {
+    "translation": {
+      "word": "eveais"
+    },
+    "partOfSpeech": "title",
+    "notes": "Royal son."
+  },
+  "Lady": {
+    "translation": {
+      "word": "avun"
+    },
+    "partOfSpeech": "title",
+    "notes": "Noblewoman."
+  },
+  "Lord": {
+    "translation": {
+      "word": "evus"
+    },
+    "partOfSpeech": "title",
+    "notes": "Nobleman."
+  },
+  "Mother": {
+    "translation": {
+      "word": "aví"
+    },
+    "partOfSpeech": "noun",
+    "notes": "Biological or symbolic mother."
+  },
+  "Father": {
+    "translation": {
+      "word": "eví"
+    },
+    "partOfSpeech": "noun",
+    "notes": "Biological or symbolic father."
+  },
+  "I": {
+    "translation": {
+      "word": "ae"
+    },
+    "partOfSpeech": "pronoun",
+    "notes": "First person singular."
+  },
+  "You (singular)": {
+    "translation": {
+      "word": "tae"
+    },
+    "partOfSpeech": "pronoun",
+    "notes": "Second person singular."
+  },
+  "He": {
+    "translation": {
+      "word": "sae"
+    },
+    "partOfSpeech": "pronoun",
+    "notes": "Third person masculine."
+  },
+  "She": {
+    "translation": {
+      "word": "lae"
+    },
+    "partOfSpeech": "pronoun",
+    "notes": "Third person feminine."
+  },
+  "They": {
+    "translation": {
+      "word": "rae"
+    },
+    "partOfSpeech": "pronoun",
+    "notes": "Third person plural or neutral."
+  },
+  "We": {
+    "translation": {
+      "word": "vae"
+    },
+    "partOfSpeech": "pronoun",
+    "notes": "First person plural."
+  },
+  "You (plural)": {
+    "translation": {
+      "word": "jae"
+    },
+    "partOfSpeech": "pronoun",
+    "notes": "Second person plural."
+  },
+  "not": {
+    "translation": {
+      "word": "taer"
+    },
+    "partOfSpeech": "particle",
+    "notes": "Negation particle."
+  },
+  "to be": {
+    "translation": {
+      "word": "en"
+    },
+    "partOfSpeech": "verb",
+    "notes": "Existence, state of being."
+  },
+  "to have": {
+    "translation": {
+      "word": "del"
+    },
+    "partOfSpeech": "verb",
+    "notes": "To possess."
+  },
+  "to go": {
+    "translation": {
+      "word": "ves"
+    },
+    "partOfSpeech": "verb",
+    "notes": "To move or travel."
+  },
+  "to come": {
+    "translation": {
+      "word": "lai"
+    },
+    "partOfSpeech": "verb",
+    "notes": "To arrive."
+  },
+  "to speak": {
+    "translation": {
+      "word": "thala"
+    },
+    "partOfSpeech": "verb",
+    "notes": "To speak or say."
+  },
+  "to see": {
+    "translation": {
+      "word": "mir"
+    },
+    "partOfSpeech": "verb",
+    "notes": "To see or perceive."
+  },
+  "to feel": {
+    "translation": {
+      "word": "senel"
+    },
+    "partOfSpeech": "verb",
+    "notes": "To sense or feel."
+  },
+  "why": {
+    "translation": {
+      "word": "fiaré"
+    },
+    "partOfSpeech": "question",
+    "notes": "Why."
+  }
+}
