@@ -1,0 +1,146 @@
+{
+    "dictionary": {
+        "hello": "sálen",
+        "friend": "tavain",
+        "my": "ien",
+        "queen": "avílyn",
+        "you": "lé",
+        "are": "év",
+        "light": "solen",
+        "love": "amíra",
+        "moon": "lúnel",
+        "fire": "sola",
+        "wind": "cael",
+        "earth": "teira",
+        "water": "huíl",
+        "sky": "caevan",
+        "life": "avír",
+        "death": "morín"
+    },
+    "phrases": {
+        "my queen": "ien avílyn",
+        "you are my light": "lé év ien solen",
+        "to be": {
+            "seelie": "aviel",
+            "meta": {
+            "part_of_speech": "verb",
+            "definition": "Class A - existential verb. No participle, no imperative."
+            }
+       },
+                "to exist": {
+            "seelie": "selien",
+            "part_of_speech": "verb",
+            "notes": "Class A - existential verb."
+        },
+        "to become": {
+            "seelie": "eyndrel",
+            "part_of_speech": "verb",
+            "notes": "Class A - metaphysical transformation."
+        },
+        "to live": {
+            "seelie": "inriel",
+            "part_of_speech": "verb",
+            "notes": "Class A - metaphysical life state."
+        },
+        "to remain": {
+            "seelie": "silven",
+            "part_of_speech": "verb",
+            "notes": "Class A - static endurance."
+        },
+        "to dwell": {
+            "seelie": "ethael",
+            "part_of_speech": "verb",
+            "notes": "Class A - spiritual or literal dwelling."
+        },
+        "to endure": {
+            "seelie": "valiren",
+            "part_of_speech": "verb",
+            "notes": "Class A - continuation over time."
+        },
+        "to awaken": {
+            "seelie": "aurelien",
+            "part_of_speech": "verb",
+            "notes": "Class A - spiritual or inner awakening."
+        },
+        "to be known": {
+            "seelie": "navien",
+            "part_of_speech": "verb",
+            "notes": "Class A - passive recognition or naming."
+        },
+        "to be present": {
+            "seelie": "menviel",
+            "part_of_speech": "verb",
+            "notes": "Class A - sense of presence."
+        },
+        "to vanish": {
+            "seelie": "thauvien",
+            "part_of_speech": "verb",
+            "notes": "Class A - ceasing to be."
+        },
+        "to appear": {
+            "seelie": "mireniel",
+            "part_of_speech": "verb",
+            "notes": "Class A - coming into being or view."
+        },
+        "to resonate": {
+            "seelie": "oreniel",
+            "part_of_speech": "verb",
+            "notes": "Class A - metaphysical alignment or harmony."
+        },
+        "to drift": {
+            "seelie": "savaen",
+            "part_of_speech": "verb",
+            "notes": "Class A - drifting in time or essence."
+        },
+        "to be remembered": {
+            "seelie": "veraniel",
+            "part_of_speech": "verb",
+            "notes": "Class A - memory state."
+        },
+        "to be forgotten": {
+            "seelie": "linthriel",
+            "part_of_speech": "verb",
+            "notes": "Class A - fading from memory."
+        },
+        "to be whole": {
+            "seelie": "verien",
+            "part_of_speech": "verb",
+            "notes": "Class A - sense of completeness."
+        },
+        "to be born": {
+            "seelie": "daurelien",
+            "part_of_speech": "verb",
+            "notes": "Class A - metaphysical birth."
+        },
+        "to fade": {
+            "seelie": "shavriel",
+            "part_of_speech": "verb",
+            "notes": "Class A - gentle disappearance or waning."
+        },
+        "to reflect": {
+            "seelie": "havalien",
+            "part_of_speech": "verb",
+            "notes": "Class A - to be mirrored in another."
+        },
+        "to breathe": {
+            "seelie": "zelien",
+            "part_of_speech": "verb",
+            "notes": "Class A - breath as existence."
+        },
+        "to transcend": {
+            "seelie": "elorien",
+            "part_of_speech": "verb",
+            "notes": "Class A - rising beyond one’s current state."
+        },
+        "to belong": {
+            "seelie": "lirien",
+            "part_of_speech": "verb",
+            "notes": "Class A - spiritual or social origin."
+        },
+        "to resound": {
+            "seelie": "enariel",
+            "part_of_speech": "verb",
+            "notes": "Class A - echoing across being or essence."
+        }
+    }
+}
