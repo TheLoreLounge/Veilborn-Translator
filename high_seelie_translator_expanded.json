@@ -15,8 +15,19 @@
         "water": "huíl",
         "sky": "caevan",
         "life": "avír",
-        "death": "morín",
-        "to exist": {
+        "death": "morín"
+    },
+    "phrases": {
+        "my queen": "ien avílyn",
+        "you are my light": "lé év ien solen",
+        "to be": {
+            "seelie": "aviel",
+            "meta": {
+            "part_of_speech": "verb",
+            "notes": "Class A - existential verb. No participle, no imperative."
+            }
+       },
+                "to exist": {
             "seelie": "selien",
             "part_of_speech": "verb",
             "notes": "Class A - existential verb."
@@ -131,13 +142,5 @@
             "part_of_speech": "verb",
             "notes": "Class A - echoing across being or essence."
         }
-    },
-    "phrases": {
-        "my queen": "ien avílyn",
-        "you are my light": "lé év ien solen",
-        "to be": {"seelie": "aviel",
-            "part_of_speech": "verb",
-            "notes": "Class A - existential verb. No participle, no imperative."
-       }
     }
 }
