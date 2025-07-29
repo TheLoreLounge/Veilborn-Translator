@@ -16,8 +16,7 @@
         "sky": "caevan",
         "life": "avír",
         "death": "morín",
-        "to be": {
-            "word": "aviel",
+        "to be": {"aviel",
             "part_of_speech": "verb",
             "notes": "Class A - existential verb. No participle, no imperative."
         },
